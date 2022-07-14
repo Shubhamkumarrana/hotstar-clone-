@@ -1,1 +1,1 @@
-# hotstar-clone-
+# hotstar-clone-using-HTML-CSS-JS
